@@ -1,10 +1,20 @@
 {
   "posts": [
-    {"id":"1","question":"Đâu là chương trình trong máy tính?","option_a":"Word","option_b":"Excel","option_c":"Powerpoint","option_d":"Tất cả đáp án trên","answer":"D"},
-    {"id":"2","question":"Chương trình liveshow truyền hình?","option_a":"Ai là triệu phú","option_b":"Hãy chọn giá đúng","option_c":"Vietnam got Talents","option_d":"All","answer":"D"},
-    {"id":"3","question":"Luật Tổ chức chính quyền địa phương được Quốc Hội thông qua ngày tháng năm nào?","option_a":"Ngày 19\/06\/2016","option_b":"Ngày 19\/06\/2015","option_c":"Ngày 21\/12\/2015","option_d":"Ngày 01\/07\/2016","answer":"B"},
-    {"id":"4","question":"Luật Tổ chức chính quyền địa phương 2015 có hiệu lực từ ngày tháng năm nào?","option_a":"01\/01\/2016","option_b":"20\/10\/2015","option_c":"31\/12\/2015","option_d":"01\/07\/2016","answer":"A"},
-    {"id":"5","question":"Chương I của Luật tổ chức chính quyền địa phương có nội dung gì?","option_a":"Những quy định chung","option_b":"Phạm vi điều chỉnh và đối tượng áp dụng.","option_c":"Đơn vị hành chính.","option_d":"Đơn vị hành chính và phân loại đơn vị hành chính.","answer":"A"}
+    {"id":"1",
+     "question":"Đâu là chương trình trong máy tính?",
+     "option_a":"Word","option_b":"Excel","option_c":"Powerpoint","option_d":"Tất cả đáp án trên","answer":"D","status":"false"},
+    {"id":"2",
+     "question":"Chương trình liveshow truyền hình?",
+     "option_a":"Ai là triệu phú","option_b":"Hãy chọn giá đúng","option_c":"Vietnam got Talents","option_d":"All","answer":"D","status":"false"},
+    {"id":"3",
+     "question":"Luật Tổ chức chính quyền địa phương được Quốc Hội thông qua ngày tháng năm nào?",
+     "option_a":"Ngày 19\/06\/2016","option_b":"Ngày 19\/06\/2015","option_c":"Ngày 21\/12\/2015","option_d":"Ngày 01\/07\/2016","answer":"B","status":"false"},
+    {"id":"4",
+     "question":"Luật Tổ chức chính quyền địa phương 2015 có hiệu lực từ ngày tháng năm nào?",
+     "option_a":"01\/01\/2016","option_b":"20\/10\/2015","option_c":"31\/12\/2015","option_d":"01\/07\/2016","answer":"A","status":"false"},
+    {"id":"5",
+     "question":"Chương I của Luật tổ chức chính quyền địa phương có nội dung gì?",
+     "option_a":"Những quy định chung","option_b":"Phạm vi điều chỉnh và đối tượng áp dụng.","option_c":"Đơn vị hành chính.","option_d":"Đơn vị hành chính và phân loại đơn vị hành chính.","answer":"A","status":"false"}
   ],
   "profile": {
     "name": "Huuthang9764"
