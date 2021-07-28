@@ -1,0 +1,21 @@
+[
+{"type":"header","version":"5.1.1","comment":"Export to JSON plugin for PHPMyAdmin"},
+{"type":"database","name":"tracnghiem"},
+{"type":"table","name":"ds_cau_hoi","database":"tracnghiem","data":
+[
+{"id":"1","question":"Đâu là chương trình trong máy tính?","option_a":"Word","option_b":"Excel","option_c":"Powerpoint","option_d":"Tất cả đáp án trên","answer":"D"},
+{"id":"2","question":"Chương trình liveshow truyền hình?","option_a":"Ai là triệu phú","option_b":"Hãy chọn giá đúng","option_c":"Vietnam got Talents","option_d":"All","answer":"D"},
+{"id":"3","question":"Luật Tổ chức chính quyền địa phương được Quốc Hội thông qua ngày tháng năm nào?","option_a":"Ngày 19\/06\/2016","option_b":"Ngày 19\/06\/2015","option_c":"Ngày 21\/12\/2015","option_d":"Ngày 01\/07\/2016","answer":"B"},
+{"id":"4","question":"Luật Tổ chức chính quyền địa phương 2015 có hiệu lực từ ngày tháng năm nào?","option_a":"01\/01\/2016","option_b":"20\/10\/2015","option_c":"31\/12\/2015","option_d":"01\/07\/2016","answer":"A"},
+{"id":"5","question":"Chương I của Luật tổ chức chính quyền địa phương có nội dung gì?","option_a":"Những quy định chung","option_b":"Phạm vi điều chỉnh và đối tượng áp dụng.","option_c":"Đơn vị hành chính.","option_d":"Đơn vị hành chính và phân loại đơn vị hành chính.","answer":"A"},
+{"id":"6","question":"Chương I Luật tổ chức chính quyền địa phương có mấy điều?","option_a":"15","option_b":"20","option_c":"25","option_d":"30","answer":"A"},
+{"id":"7","question":"Phạm vi điều chỉnh của Luật Tổ chức chính quyền địa phương có nội dung gì?","option_a":"Quy định về đơn vị hành chính và tổ chức, hoạt động cũng như nguyên tắc vận hành của các đơn vị hành chính.","option_b":"Quy định về đơn vị hành chính và tổ chức, hoạt động của chính quyền địa phương ở các đơn vị hành chính.","option_c":"Quy định về chính quyền địa phương các cấp tại các đơn vị hành chính.","option_d":"Đơn vị hành chính và việc áp dụng đơn vị hành chính ở chính quyền địa phương các cấp.","answer":"B"},
+{"id":"8","question":"Thành phố Hà Nội và thành phố Hồ Chí Minh là loại đơn vị hành chính nào?","option_a":"Cấp tỉnh loại I.","option_b":"Cấp tỉnh.","option_c":"Cấp thành phố trực thuộc trung ương.","option_d":"Cấp tỉnh loại đặc biệt.","answer":"D"},
+{"id":"9","question":"Mục đích của việc phân loại đơn vị hành chính là?","option_a":"Cơ sở để hoạch định chính sách phát triển kinh tế - xã hội; xây dựng tổ chức bộ máy, chế độ, chính sách đối với cán bộ, công chức của chính quyền địa phương phù hợp với từng loại đơn vị hành chính.","option_b":"Cơ sở để hoạch định chính sách phát triển kinh tế - xã hội phù hợp với từng địa phương, ngành, lĩnh vực.","option_c":"Cơ sở để quyết định chính sách phát triển cơ sở hạ tầng, ngân sách cho từng địa phương phù hợp với từng loại đơn vị hành chính.","option_d":"Bảo đảm chính sách an sinh xã hội, phát triển các ngành, lĩnh vực trên từng địa bàn.","answer":"A"},
+{"id":"10","question":"Đơn vị hành chính cấp tỉnh được chia thành mấy loại?","option_a":"04 loại.","option_b":"03 loại.","option_c":"05 loại.","option_d":"02 loại.","answer":"A"},
+{"id":"11","question":"Đâu không phải là tiêu chí để phân loại đơn vị hành chính?","option_a":"Trình độ dân trí, mức độ phát triển các ngành, lĩnh vực.","option_b":"Quy mô dân số.","option_c":"Diện tích tự nhiên.","option_d":"Số đơn vị hành chính trực thuộc.","answer":"D"},
+{"id":"12","question":"nếu nó reload lại","option_a":"21","option_b":"3","option_c":"4","option_d":"5","answer":"A"},
+{"id":"13","question":"Xem nó sửa lại như nào?","option_a":"14","option_b":"12","option_c":"41","option_d":"41","answer":"C"}
+]
+}
+]
