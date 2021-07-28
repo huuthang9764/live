@@ -1,5 +1,5 @@
 {
-  "posts":[
+  "posts": [
     {"id":"1","question":"Đâu là chương trình trong máy tính?","option_a":"Word","option_b":"Excel","option_c":"Powerpoint","option_d":"Tất cả đáp án trên","answer":"D"},
     {"id":"2","question":"Chương trình liveshow truyền hình?","option_a":"Ai là triệu phú","option_b":"Hãy chọn giá đúng","option_c":"Vietnam got Talents","option_d":"All","answer":"D"},
     {"id":"3","question":"Luật Tổ chức chính quyền địa phương được Quốc Hội thông qua ngày tháng năm nào?","option_a":"Ngày 19\/06\/2016","option_b":"Ngày 19\/06\/2015","option_c":"Ngày 21\/12\/2015","option_d":"Ngày 01\/07\/2016","answer":"B"},
@@ -13,8 +13,8 @@
     {"id":"11","question":"Đâu không phải là tiêu chí để phân loại đơn vị hành chính?","option_a":"Trình độ dân trí, mức độ phát triển các ngành, lĩnh vực.","option_b":"Quy mô dân số.","option_c":"Diện tích tự nhiên.","option_d":"Số đơn vị hành chính trực thuộc.","answer":"D"},
     {"id":"12","question":"nếu nó reload lại","option_a":"21","option_b":"3","option_c":"4","option_d":"5","answer":"A"},
     {"id":"13","question":"Xem nó sửa lại như nào?","option_a":"14","option_b":"12","option_c":"41","option_d":"41","answer":"C"}
-      ],
-    "profile": {
-    "name": "typicode"
+  ],
+  "profile": {
+    "name": "Huuthang9764"
   }
 }
